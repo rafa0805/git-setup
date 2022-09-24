@@ -1,0 +1,24 @@
+[user]
+	name = rafa0805
+	email = theryk0805@gmail.com
+[core]
+	editor = vim
+	autocrlf = false
+	quotepath = false
+[color]
+	ui = true
+[push]
+	default = current
+[pull]
+	ff = only
+	rebase = false
+[init]
+	defaultBranch = main
+[alias]
+	st = status
+	df = diff
+	co = commit
+	br = branch
+	ps = push
+	pl = pull
+	ck = check
